@@ -5,10 +5,15 @@ from urllib.error import HTTPError, URLError
 
 class TableFinder:
 
-    def find_table(self, url):
+    def __init__(self):
+        self.root = "https://www.canecaccia.com/"
 
-        html = urlopen(url)
+    def find_table(self, url, season):
+        if url[0] == ".":
+            url = self.root + season + url[1:]
+
         try:
+            html = urlopen(url)
             bsObj = BeautifulSoup(html, "html.parser")
             frame = bsObj.find("iframe")
         except HTTPError as e:
@@ -16,4 +21,8 @@ class TableFinder:
         except URLError as e:
             print(url + "could not be found")
 
-        return frame["src"]
+        link = frame["src"]
+        if len(link) < 40: # check if part of link hidden
+            lista = url.split("/")
+            link = "/".join(lista[:-1]) + link[1:]
+        return link
