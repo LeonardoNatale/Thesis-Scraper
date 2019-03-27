@@ -1,5 +1,3 @@
-from urllib.request import urlopen
-from bs4 import BeautifulSoup
 import re
 from Service.TableFinder import TableFinder
 from Service.TableWriter import TableWriter
