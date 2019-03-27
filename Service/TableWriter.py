@@ -4,19 +4,16 @@ from bs4 import BeautifulSoup
 
 
 class TableWriter:
-    def __init__(self, season):
-        self.root = "https://www.canecaccia.com/"
-        self.season = season
-        pass
 
-    def write_table(self, url, name):
+    def write_table(self, url):
 
-        html = urlopen(self.root + self.season + "/serieBA/class_gen.php")
+        html = urlopen(url)
         bsObj = BeautifulSoup(html, "html.parser")
         # The main comparison table is currently the first table on the page
         table = bsObj.findAll("table")[0]
         rows = table.findAll("tr")
 
+        title = url[27:]
         csvFile = open("url", 'wt', newline='', encoding='utf-8')
         writer = csv.writer(csvFile)
         try:
