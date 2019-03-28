@@ -26,7 +26,7 @@ class TableWriter:
             for row in rows:
                 csvRow = []
                 for cell in row.findAll(['td', 'th']):
-                    csvRow.append(cell.get_text())
+                    csvRow.append(cell.get_text().replace("\n", ""))  # to avoid extra spaces
                 writer.writerow(csvRow)
         finally:
             csvFile.close()
