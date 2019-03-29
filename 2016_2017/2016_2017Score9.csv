@@ -1,5 +1,4 @@
-"D Lombardia Girone C classifica marcatori in base ai punti
-  segnati"
+D Lombardia Girone C classifica marcatori in base ai punti  segnati
 n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 1,Gianotti Davide,Pallacanestro Cabiate,G/A,1990,192,375,26,"14,42"
 2,Caggio David,Basket Tavernerio,A,1988,195,342,24,"14,25"
@@ -206,8 +205,7 @@ n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 203,Molteni Simone,Forti E Liberi Monza,C,1999,xxx,5,4,"1,25"
 204,Bazzi Alessandro,Sportiva BK Sondrio,G,1998,177,5,5,"1,00"
  , , , , , , , , 
-"D  Lombardia Girone C classifica marcatori in
-  base alla media giornate  punti segnati"
+D  Lombardia Girone C classifica marcatori in  base alla media giornate  punti segnati
 n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 1,Colella Alessandro,Forti E Liberi Monza,A,1996,xxx,275,18,"15,28"
 2,Gianotti Davide,Pallacanestro Cabiate,G/A,1990,192,375,26,"14,42"

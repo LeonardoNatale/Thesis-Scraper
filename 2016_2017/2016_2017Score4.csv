@@ -1,5 +1,4 @@
-"C Lombardia Silver Girone A classifica marcatori in base ai
-  punti segnati"
+C Lombardia Silver Girone A classifica marcatori in base ai  punti segnati
 n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 1,Tacchini Eric,Olimpia Cadorago,A,1992,195,536,30,"17,87"
 2,Beretta Giorgio,Pall. Cerro Maggiore,A,1984,189,518,29,"17,86"
@@ -224,8 +223,7 @@ n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 221,Meraviglia,Pall. Cerro Maggiore, , , ,1,2,"0,50"
 222,Citterio,Casa Gioventù Erba, , , ,1,8,"0,13"
  , , , , , , , , 
-"C  Lombardia Silver  Girone A classifica marcatori in base alla
-  media giornate  punti segnati"
+C  Lombardia Silver  Girone A classifica marcatori in base alla  media giornate  punti segnati
 n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 1,Tacchini Eric,Olimpia Cadorago,A,1992,195,536,30,"17,87"
 2,Beretta Giorgio,Pall. Cerro Maggiore,A,1984,189,518,29,"17,86"

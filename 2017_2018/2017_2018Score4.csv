@@ -1,5 +1,4 @@
-"C Lombardia Silver Girone A classifica marcatori in base ai
-  punti segnati"
+C Lombardia Silver Girone A classifica marcatori in base ai  punti segnati
 n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 1,Anolli Giovanni,Bocconi Milano,A/C,1996,201,459,30,"15,30"
 2,Botto Tommaso,Basketown Milano,G,1997,186,429,30,"14,30"
@@ -224,8 +223,7 @@ n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 221,Vaghini,DI.PO. Vimercate, , , ,2,11,"0,18"
 222,Scaglione Alessandro,Sesto Rondinella,A,1998,195,1,7,"0,14"
  , , , , , , , , 
-"C  Lombardia Silver  Girone A classifica marcatori in base alla
-  media giornate  punti segnati"
+C  Lombardia Silver  Girone A classifica marcatori in base alla  media giornate  punti segnati
 n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 1,Anolli Giovanni,Bocconi Milano,A/C,1996,201,459,30,"15,30"
 2,Favero,ASD Morbegno, , , ,354,24,"14,75"

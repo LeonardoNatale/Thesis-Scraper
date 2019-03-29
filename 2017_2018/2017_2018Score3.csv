@@ -1,5 +1,4 @@
-"C Gold Lombardia Girone B classifica marcatori in base ai punti
-  segnati"
+C Gold Lombardia Girone B classifica marcatori in base ai punti  segnati
 n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 1,Passerini Federico,7 Laghi Gazzada Schianno,P/G,1993,186,393,24,"16,38"
 2,Giocondo Giuseppe,Milano 3 Basket Basiglio,G,1989,187,389,22,"17,68"
@@ -167,9 +166,7 @@ n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 164,Marcantonio Nicolò,Arcisate Valceresio,G,2000,181,1,4,"0,25"
 165,Morandi Matteo,Pall. Cerro Maggiore,G,1999,180,1,6,"0,17"
  , , , , , , , , 
-"C  Gold Lombardia Girone B classifica
-  marcatori in base alla media giornate 
-  punti segnati"
+C  Gold Lombardia Girone B classifica  marcatori in base alla media giornate   punti segnati
 n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 1,Giocondo Giuseppe,Milano 3 Basket Basiglio,G,1989,187,389,22,"17,68"
 2,Passerini Federico,7 Laghi Gazzada Schianno,P/G,1993,186,393,24,"16,38"

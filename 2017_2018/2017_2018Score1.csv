@@ -1,5 +1,4 @@
-"Serie B  Girone B
-  classifica marcatori in base ai punti segnati"
+Serie B  Girone B  classifica marcatori in base ai punti segnati
 n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 1,Venucci Mattia,Raggiosolaris Faenza,P,1990,188,561,30,"18,70"
 2,Balanzoni Jacopo,Basket Lecco,C,1993,203,510,28,"18,21"
@@ -217,8 +216,7 @@ n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 214,Patroni Gioele,Pall. Alto Sebino Costa V.,G/A,1999,188,1,3,"0,33"
 215,Ciaramella Daniele,Pallacanestro Crema,G,198,188,1,3,"0,33"
  , , , , , , , , 
-"Serie B Girone B
-  classifica marcatori in base alla media giornate  punti segnati"
+Serie B Girone B  classifica marcatori in base alla media giornate  punti segnati
 n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 1,Venucci Mattia,Raggiosolaris Faenza,P,1990,188,561,30,"18,70"
 2,Balanzoni Jacopo,Basket Lecco,C,1993,203,510,28,"18,21"

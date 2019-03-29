@@ -1,5 +1,4 @@
-"Serie B  Girone B
-  classifica marcatori in base ai punti segnati"
+Serie B  Girone B  classifica marcatori in base ai punti segnati
 n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 1,Centanni Simone,Pall. Alto Sebino Costa V.,P,1991,185,598,30,"19,93"
 2,Ghersetti Mario Josè,Co. Mark Bergamo,A,1981,201,477,27,"17,67"
@@ -198,8 +197,7 @@ n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 195,Turcato Andrea,Pallacanestro Vicenza 2012,C,1996, ,1,2,"0,50"
 196,Ferrari Tommaso,Basket 2000 Reggio Emilia,A,1997,191,1,17,"0,06"
  , , , , , , , , 
-"Serie B Girone B
-  classifica marcatori in base alla media giornate  punti segnati"
+Serie B Girone B  classifica marcatori in base alla media giornate  punti segnati
 n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 1,Centanni Simone,Pall. Alto Sebino Costa V.,P,1991,185,598,30,"19,93"
 2,Ghersetti Mario Josè,Co. Mark Bergamo,A,1981,201,477,27,"17,67"

@@ -1,5 +1,4 @@
-"D Lombardia Girone F classifica marcatori in base ai punti
-  segnati"
+D Lombardia Girone F classifica marcatori in base ai punti  segnati
 n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 1,Masper Cristiano,Gilbertina Soresina,C,1973,207,625,26,"24,04"
 2,Guzzoni Fabio,Gilbertina Soresina,A,1984,196,413,26,"15,88"
@@ -141,8 +140,7 @@ n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 138,Muratore Simone,Pentagono Trezzano,A/C,1991,192,46,11,"4,18"
 139,Bischetti Guglielmo,Nuova Argentia Gorgonzola,A,1997,xxx,45,21,"2,14"
 140,Criserà Alessandro,Basket Melzo,G/A,1996,188,45,21,"2,14"
-141,"Brambillasca Giovanni (vice
-  coach)",Nuova Argentia Gorgonzola, , , ,44,5,"8,80"
+141,Brambillasca Giovanni (vice  coach),Nuova Argentia Gorgonzola, , , ,44,5,"8,80"
 142,Scaparrotti Alessio,Basket Pioltello,x,1998,xxx,41,12,"3,42"
 143,Landini Andrea,Sanmaurense Pavia,A,1985,182,40,7,"5,71"
 144,Giudici Davide,Gilbertina Soresina,P,1978,xxx,40,7,"5,71"
@@ -228,8 +226,7 @@ n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 224,Incerti Federico,Nuova BK Cava Manara,x,1998,xxx,2,12,"0,17"
 225,Ferri Daniele,Basket Melzo,P/G,2000, ,1,3,"0,33"
  , , , , , , , , 
-"D  Lombardia Girone F classifica marcatori in
-  base alla media giornate  punti segnati"
+D  Lombardia Girone F classifica marcatori in  base alla media giornate  punti segnati
 n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 1,Masper Cristiano,Gilbertina Soresina,C,1973,207,625,26,"24,04"
 2,Moreno Max,JU.VI. Cremona,P/G,1981,188,381,21,"18,14"

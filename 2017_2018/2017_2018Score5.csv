@@ -1,5 +1,4 @@
-"C Lombardia Silver Girone B classifica marcatori in base ai
-  punti segnati"
+C Lombardia Silver Girone B classifica marcatori in base ai  punti segnati
 n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 1,Vescovi Edoardo,Pallacanestro Castronno,A,1996,195,559,27,"20,70"
 2,Azzimonti Edoardo,Hydrotherm Busto Arsizio,C,1988,200,504,30,"16,80"
@@ -223,8 +222,7 @@ n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 220,Cavallini Lorenzo,Verbano Luino,G,1999, ,2,9,"0,22"
 221,Badalotti Davide,Hydrotherm Busto Arsizio,C,1997,190,1,14,"0,07"
  , , , , , , , , 
-"C  Lombardia Silver  Girone B classifica marcatori in base alla
-  media giornate  punti segnati"
+C  Lombardia Silver  Girone B classifica marcatori in base alla  media giornate  punti segnati
 n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 1,Vescovi Edoardo,Pallacanestro Castronno,A,1996,195,559,27,"20,70"
 2,Vai Federico,Hydrotherm Busto Arsizio,G/A,1995,195,299,15,"19,93"

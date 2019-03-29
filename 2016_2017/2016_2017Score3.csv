@@ -1,5 +1,4 @@
-"C Gold Lombardia Girone B classifica marcatori in base ai punti
-  segnati"
+C Gold Lombardia Girone B classifica marcatori in base ai punti  segnati
 n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 1,Denarius Darby,Corona Platina Piadena,P/G,1988,191,429,21,"20,43"
 2,Pesenti Marco,Sanse Tedeschi Cremona,G,1983,186,413,26,"15,88"
@@ -189,8 +188,7 @@ n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 186,Beccagutti Davide,Pallacanestro Gardonese,P,1997,178,1,3,"0,33"
 187,Marrazzo Giacomo,NP Gordon Olginate,G,1997,191,1,11,"0,09"
  , , , , , , , , 
-"C  Gold Lombardia  Girone B classifica marcatori in base alla
-  media giornate  punti segnati"
+C  Gold Lombardia  Girone B classifica marcatori in base alla  media giornate  punti segnati
 n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 1,Smallwood JR Timothy Lamar,Manerbio Basket,G,1993, ,86,4,"21,50"
 2,Denarius Darby,Corona Platina Piadena,P/G,1988,191,429,21,"20,43"

@@ -1,5 +1,4 @@
-"C Gold Lombardia Girone A classifica marcatori in base ai punti
-  segnati"
+C Gold Lombardia Girone A classifica marcatori in base ai punti  segnati
 n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 1,Allegri Alessio,OSL Resistor Garbagnate,G/A,1982,192,511,25,"20,44"
 2,Passerini Federico,7 Laghi Gazzada Schianno,P/G,1993,186,475,26,"18,27"
@@ -182,9 +181,7 @@ n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 179,Marcantoni Nicolò,Arcisate Valceresio,G,2000, ,2,7,"0,29"
 180,Rao Patrick,Opera Basket Club,G/A,1998,184,2,7,"0,29"
  , , , , , , , , 
-"C  Gold Lombardia Girone A classifica
-  marcatori in base alla media giornate 
-  punti segnati"
+C  Gold Lombardia Girone A classifica  marcatori in base alla media giornate   punti segnati
 n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 1,Bazzoli Riccardo,Pallacanestro Milano,A,1983,198,474,23,"20,61"
 2,Allegri Alessio,OSL Resistor Garbagnate,G/A,1982,192,511,25,"20,44"

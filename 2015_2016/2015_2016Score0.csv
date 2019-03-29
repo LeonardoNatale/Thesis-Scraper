@@ -1,5 +1,4 @@
-"C Lombardia Gold Girone A classifica marcatori in base ai punti
-  segnati"
+C Lombardia Gold Girone A classifica marcatori in base ai punti  segnati
 n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 1,Allegri Alessio,OSL Resistor Garbagnate,G/A,1982,192,542,29,"18,69"
 2,Bassani Andrea,NP Gordon Olginate,C,1989,200,496,30,"16,53"
@@ -217,8 +216,7 @@ n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 214,Chiapparo Alessandro,7 Laghi Gazzada,G,2001,xxx,2,8,"0,25"
 215,Pacchetti Stefano,OSL Resistor Garbagnate,C,1980,193,1,6,"0,17"
  , , , , , , , , 
-"C  Lombardia Gold  Girone A classifica marcatori in base alla
-  media giornate  punti segnati"
+C  Lombardia Gold  Girone A classifica marcatori in base alla  media giornate  punti segnati
 n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 1,Hudson Johanathan,Nelson Somma Lombardo, , , ,240,11,"21,82"
 2,Allegri Alessio,OSL Resistor Garbagnate,G/A,1982,192,542,29,"18,69"

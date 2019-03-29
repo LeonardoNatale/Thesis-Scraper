@@ -1,5 +1,4 @@
-"C Lombardia Silver Girone C classifica marcatori in base ai
-  punti segnati"
+C Lombardia Silver Girone C classifica marcatori in base ai  punti segnati
 n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 1,Bolis Alessio,Virtus Brescia,G,1997,183,668,28,"23,86"
 2,Faccioli Simone,Basket Bancole,A,1993,193,567,30,"18,90"
@@ -228,8 +227,7 @@ n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 225,Riccò Matteo,BK Sustinente,P/G,2000,182,1,7,"0,14"
 226,Pedritis Samuele,Gamma BK Segrate,P,2000,xxx,1,7,"0,14"
  , , , , , , , , 
-"C  Lombardia Silver  Girone C classifica marcatori in base alla
-  media giornate  punti segnati"
+C  Lombardia Silver  Girone C classifica marcatori in base alla  media giornate  punti segnati
 n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 1,Bolis Alessio,Virtus Brescia,G,1997,183,668,28,"23,86"
 2,Moreno Max,JUVI Cremona,P/G,1981,188,553,28,"19,75"

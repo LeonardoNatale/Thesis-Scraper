@@ -1,5 +1,4 @@
-"C Lombardia Silver Girone C classifica marcatori in base ai
-  punti segnati"
+C Lombardia Silver Girone C classifica marcatori in base ai  punti segnati
 n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 1,Cuzzani Marco,Pallacanestro Quistello,A,1980,190,534,30,"17,80"
 2,Sartora Marco,Asola Lions Del Chiese,A,1991,198,530,30,"17,67"
@@ -220,8 +219,7 @@ n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 217,Podavini Michele,New Basket Prevalle,A,1997,191,2,15,"0,13"
 218,Finazzi Edoardo,Persico Seriana Basket,G,2001,175,1,5,"0,20"
  , , , , , , , , 
-"C  Lombardia Silver  Girone C classifica marcatori in base alla
-  media giornate  punti segnati"
+C  Lombardia Silver  Girone C classifica marcatori in base alla  media giornate  punti segnati
 n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 1,Masper Cristiano,Gilbertina Soresina,C,1973,206,529,29,"18,24"
 2,Cuzzani Marco,Pallacanestro Quistello,A,1980,190,534,30,"17,80"

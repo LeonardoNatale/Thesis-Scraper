@@ -1,5 +1,4 @@
-"C Lombardia Silver Girone B classifica marcatori in base ai
-  punti segnati"
+C Lombardia Silver Girone B classifica marcatori in base ai  punti segnati
 n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 1,Clementoni Matteo,Bocconi Milano,G,1996,190,527,29,"18,17"
 2,Aliprandi Andrea,AS Dil. Lesmo 2004,A,1994,195,465,28,"16,61"
@@ -235,8 +234,7 @@ n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 232,Marzorati,Polisportiva Varedo, , , ,1,2,"0,50"
 233,Pace Gianluca,ASD Morbegno,P,1997,xxx,1,7,"0,14"
  , , , , , , , , 
-"C  Lombardia Silver  Girone B classifica marcatori in base alla
-  media giornate  punti segnati"
+C  Lombardia Silver  Girone B classifica marcatori in base alla  media giornate  punti segnati
 n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 1,Clementoni Matteo,Bocconi Milano,G,1996,190,527,29,"18,17"
 2,Tannoia Riccardo,Baskettiamo Vittuone,P,1997,175,434,26,"16,69"

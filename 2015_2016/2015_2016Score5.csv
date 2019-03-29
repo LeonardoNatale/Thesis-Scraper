@@ -1,5 +1,4 @@
-"D Lombardia  Girone A
-  classifica marcatori in base ai punti segnati"
+D Lombardia  Girone A  classifica marcatori in base ai punti segnati
 n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 1,Caggio David,Pallacanestro Albavilla,A,1988,195,436,22,"19,82"
 2,Livio Alberto,ABC Lomazzo,G,1994,xxx,356,24,"14,83"
@@ -202,11 +201,9 @@ n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 199,Bianchi,Casa Gioventù Erba, , , ,1,1,"1,00"
 200,Corengia ,GS Villa Guardia, , , ,1,8,"0,13"
  , , , , , , , , 
-"D  Lombardia Silver  Girone A classifica marcatori in base alla
-  media giornate  punti segnati"
+D  Lombardia Silver  Girone A classifica marcatori in base alla  media giornate  punti segnati
 n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
-1,Caggio David,"Pallacanestro
-  Albavilla",A,1988,195,436,22,"19,82"
+1,Caggio David,Pallacanestro  Albavilla,A,1988,195,436,22,"19,82"
 2,Livio Alberto,ABC Lomazzo,G,1994,xxx,356,24,"14,83"
 3,Triulzi Federico,Sportiva BK Sondrio,P,1986,xxx,295,20,"14,75"
 4,Oliva Gabriele,Masters Carate,C,1992,xxx,340,24,"14,17"

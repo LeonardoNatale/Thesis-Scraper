@@ -1,5 +1,4 @@
-"C Lombardia Gold Girone B classifica marcatori in base ai punti
-  segnati"
+C Lombardia Gold Girone B classifica marcatori in base ai punti  segnati
 n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 1,Caramatti Renè,Virtus Lumezzane,G/A,1990,192,575,29,"19,83"
 2,Bazzoli Riccardo,Pallacanestro Milano,A,1983,198,547,27,"20,26"
@@ -197,8 +196,7 @@ n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 194,Del Barba Lorenzo,Argomm Iseo,A,1996,195,5,17,"0,29"
 195,Peloso Alessandro,Ebro Basket,A,1995,195,4,3,"1,33"
  , , , , , , , , 
-"C  Lombardia Gold  Girone B classifica marcatori in base alla
-  media giornate  punti segnati"
+C  Lombardia Gold  Girone B classifica marcatori in base alla  media giornate  punti segnati
 n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 1,Bazzoli Riccardo,Pallacanestro Milano,A,1983,198,547,27,"20,26"
 2,Caramatti Renè,Virtus Lumezzane,G/A,1990,192,575,29,"19,83"

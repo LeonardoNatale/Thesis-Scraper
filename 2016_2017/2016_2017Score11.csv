@@ -1,5 +1,4 @@
-"D Lombardia Girone E classifica marcatori in base ai punti
-  segnati"
+D Lombardia Girone E classifica marcatori in base ai punti  segnati
 n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 1,Martini Alessandro,Vismara Milano,A/C,1995,195,416,25,"16,64"
 2,Carnevale Gianluca,San Maurense Pavia,P,1986,186,362,24,"15,08"
@@ -206,8 +205,7 @@ n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 203,D'Aversa,Kor San Giuliano, , , ,4,5,"0,80"
 204,Gabanelli,Milano 3 Basiglio, , , ,4,7,"0,57"
  , , , , , , , , 
-"D  Lombardia Girone E classifica marcatori in
-  base alla media giornate  punti segnati"
+D  Lombardia Girone E classifica marcatori in  base alla media giornate  punti segnati
 n°,Giocatore,Squadra,Ruolo,Anno,Cm ,P.S.,P.G,Media
 1,Becerra Fernando,Nuova Olimpia BK Voghera,G,1981,192,126,7,"18,00"
 2,Reali Alessandro,US GB Abbiategrasso,P,1998,185,321,18,"17,83"
