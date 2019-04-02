@@ -21,9 +21,9 @@ for season in seasons:
         for link in links:
             # print(link["href"])
             table_url = table_finder.find_table(link["href"], season)
-            table_type = table_types[j%2]
+            table_type = table_types[j % 2]
             # print(table_url)
             table_writer.write_table(table_url, season, table_type, counter)
             j += 1
-            add = 1 if j%2 == 0 else 0
+            add = 1 if j % 2 == 0 else 0
             counter += add
