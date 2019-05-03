@@ -15,41 +15,26 @@ table_writer = TableWriter()
 results_finder = ResultsFinder()
 results_writer = ResultsWriter()
 
-j = 0
-counter = 0
-for season in seasons:
-    campionati = championship_finder.find_championships(season)
-    counter = 0
-    for i in range(0, len(campionati)):
-        links = campionati[i].findAll("a", {"href": re.compile("^(?!.*prom)^(?!.*piem).*(gen|mar).*")})
-        for link in links:
-            # print(link["href"])
-            table_url = table_finder.find_table(link["href"], season)
-            table_type = table_types[j%2]
-            # print(table_url)
-            table_writer.write_table(table_url, season, table_type, counter)
-            j += 1
-            add = 1 if j%2 == 0 else 0
-            counter += add
+# j = 0
+# counter = 0
+# for season in seasons:
+#     campionati = championship_finder.find_championships(season)
+#     counter = 0
+#     for i in range(0, len(campionati)):
+#         links = campionati[i].findAll("a", {"href": re.compile("^(?!.*prom)^(?!.*piem).*(gen|mar).*")})
+#         for link in links:
+#             # print(link["href"])
+#             table_url = table_finder.find_table(link["href"], season)
+#             table_type = table_types[j % 2]
+#             # print(table_url)
+#             table_writer.write_table(table_url, season, table_type, counter)
+#             j += 1
+#             add = 1 if j % 2 == 0 else 0
+#             counter += add
 
 # Trovo risultati di un campionato
 squadre = results_finder.find_results("serieBA/tabba.php")
 results_writer.write_results(squadre, "results1")
 squadre = results_finder.find_results("serieBA/tabbar.php")
 results_writer.write_results(squadre, "results2")
-j = 0
-counter = 0
-for season in seasons:
-    campionati = championship_finder.find_championships(season)
-    counter = 0
-    for i in range(0, len(campionati)):
-        links = campionati[i].findAll("a", {"href": re.compile("^(?!.*prom)^(?!.*piem).*(gen|mar).*")})
-        for link in links:
-            # print(link["href"])
-            table_url = table_finder.find_table(link["href"], season)
-            table_type = table_types[j % 2]
-            # print(table_url)
-            table_writer.write_table(table_url, season, table_type, counter)
-            j += 1
-            add = 1 if j % 2 == 0 else 0
-            counter += add
+
